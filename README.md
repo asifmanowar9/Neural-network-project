@@ -31,7 +31,7 @@ NEURAL-NETWORK-PROJECT/
 | **GRU** ✅ | 17,281 | **99.9247%** | **0.999336** | 0.0604 ms |
 | CNN-1D | 20,865 | 99.9158% | 0.999258 | 0.0498 ms |
 | MLP | 10,113 | 99.8782% | 0.998926 | 0.0445 ms |
-| SimpleRNN | 9,185 | 99.8759% | 0.998906 | — |
+| SimpleRNN | 9,185 | 99.8759% | 0.998906 | 0.0736 |
 | LSTM | 33,473 | 99.8671% | 0.998828 | 0.0809 ms |
 
 > ✅ **GRU** was selected as the optimal architecture based on the best overall balance of classification performance, parameter efficiency, and real-time inference viability.
